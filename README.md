@@ -1,6 +1,6 @@
-<p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img width="100%" src="https://tva1.sinaimg.cn/large/008i3skNly1gu15fg76evj60xc0b4mxl02.jpg" alt="banner_img"></a></p>
+<p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img width="100%" src="https://tva1.sinaimg.cn/large/008i3skNly1gu15fg76evj60xc0b4mxl02.jpg" alt="banner_img" alt="banner_img"></a></p>
 
-<p align="center">The closest thing to nature in the world，maybe.</p> 
+<p align="center">可能是世界上最贴近自然的设计.</p> 
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/version-1.0-orange.svg" alt="version_img"></a>
@@ -8,15 +8,44 @@
   <a href="#"><img src="https://img.shields.io/badge/style-light%20design-red.svg" alt="style_img"></a>
 </p>
 
+
 <p align="center" style="font-size:20px;font-weight:bold;">Motivation</p> 
 
-Light Design
+一根木头，削尖了可以变成长矛，在水里泡一泡可以成为房梁，锯成木板可以做成桌子椅子，但这些都只是工具。
 
-<p align="center" style="font-size:20px;font-weight:bold;">Rules</p> 
+把一根木头，立起来，上面雕刻上象征着神明的图腾，此时，它介于工具和产品之间，联结着人与自然。
 
-![Light Design Rules](https://matrixage.github.io/img/projects/lightd/light_design_rules.jpg)
+还是这根木头，把它做成一个木碗，上面雕刻上神秘的花纹，一千年后，它作为艺术品被摆放在展厅的柜台上，我将之称为——设计。
+
+2019年我创立了Matrixages，它的slogan是Design better，life Better.  
+
+我深信，好的设计可以改变人的心情，改变人们对于生活的认知。
+
+曾记得小时候，玩泥巴，搞得浑身上下到处都是泥，要是回家被老妈发现了，少不了一顿胖揍，但是玩的时候，当看着一个像什么，但又奇形怪状的东西从自己手里诞生时，这个时候是开心的。
+
+玩泥巴是一个创造的过程。
+
+我们都曾在小学课本上学过女娲用树枝和泥巴造人的故事，何曾有人想过女娲造人的动机是什么——造物主拥有世界上最大的快乐。
+
+你可以在动物和生物甚至是细胞普遍存在的生殖欲望上获得一种暗示——创造是万事万物生存发展之道。
+
+而设计，将人与自然联结，通过探索、研究、解释、复现和推演，把大自然巧夺天工的设计引入到人类社会。
+
+自然通过亿万年的演化成果，通过设计，跨越了时间和空间，让人类文明更加璀璨。
+
+同样是一件衣服，精心设计过的可以卖普通十倍的价钱。无论是在物质匮乏的年代还是物质极大丰富的时代，人们对于好的设计的追求，对于美的追求是从古到今，从未改变的。
+
+我为什么要写这本书，我的驱动力是什么，这个问题我想了很久，也曾不止一次想要放弃，但当看见很多人对于美的认知是多么狭隘，对于设计的理解是多么片面，内心深处有一个声音不断在告诉我：人们需要知道什么是设计，什么是美，让这种美去改变他们对于世界的看法，改变人们对于生活的态度。
+
+朽木经过设计也可以变成雕塑，贫穷也可以很美，当人们不在执拗于现实世界的认知，从超脱和欣赏的角度去看待这个世界，用设计的思想去感受自己当下的生活，就会发现，平庸也可以过的很快乐，这种快乐不是苦中作乐，是真的快乐。
+
+无论你是富有，抑或是贫穷，人的痛感神经和对于多巴胺的感知能力都是一样的，没有哪一种快乐能让你超越人的快乐，没有哪一种痛苦别人无法触达，真正的快乐和痛苦取决于你的态度。
 
 
+
+> Nothing is true，everything is permitted.
+>
+> 万物皆虚，万事皆允。	——《刺客信条》
 
 
 
